@@ -1,0 +1,1 @@
+# salt-openvpn-ldap-auth-formula
